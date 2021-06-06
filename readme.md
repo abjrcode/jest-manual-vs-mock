@@ -1,0 +1,2 @@
+This repository reproduces a behavior I don't understand when using `jest.mock` vs. manual mocks.
+It is a companion to this StackOverflow question: https://stackoverflow.com/questions/67852133/manual-mock-behaves-differently-than-jest-mock-with-a-factory-parameter
